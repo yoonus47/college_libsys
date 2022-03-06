@@ -1,0 +1,29 @@
+body{
+	margin: 0;
+}
+table{
+	margin: auto;
+}
+.headtext{
+	padding: 30px;
+	font-family: serif;
+	font-weight: bolder;
+	font-size: 2em;
+	font-family: serif;
+}
+.textstyle{
+	font-weight: bold;
+	font-family: fantasy;
+}
+.topbox{
+	background-color: yellow;
+	height: 400px;
+	width: 500px;
+	text-align: center;
+	margin: 200px auto;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
